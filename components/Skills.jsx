@@ -53,7 +53,7 @@ const Skills = () => {
                 <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
-                            <Image src="/../public/assets/skills/react.png"width='64' height='64'  alt="/" />
+                            <Image src="/../public/assets/skills/react.png" width='64' height='64'  alt="/" />
                             
                         </div>
                         <div className='flex flex-col items-center justify-center'>
@@ -95,7 +95,7 @@ const Skills = () => {
                 <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
-                            <Image src="/../public/assets/skills/solidity.png"width='64' height='64'  alt="/" />
+                        <img src="https://github.com/RonikParashar/My_Portfolio/assets/90423810/955a365f-09ec-4d8e-b70e-fabace72ba39" width='84' height='84'  alt="/" />
                             
                         </div>
                         <div className='flex flex-col items-center justify-center'>
@@ -109,7 +109,7 @@ const Skills = () => {
                 <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
                     <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                         <div className='m-auto'>
-                            <Image src="/../public/assets/skills/powerbi.jpg"width='94' height='94'  alt="/" />
+                            <Image src="/../public/assets/skills/powerbi.jpeg"width='74' height='74'  alt="/" />
                             
                         </div>
                         <div className='flex flex-col items-center justify-center'>

@@ -5,6 +5,10 @@ import { BsPersonLinesFill } from 'react-icons/bs'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi'
 
+
+
+
+
 const Contacts = () => {
   return (
     <div id='contact' className='w-full lg:h-screen'>
