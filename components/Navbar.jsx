@@ -48,7 +48,7 @@ useEffect(() =>{
      className={shadow ? 'fixed w-full h-20 shadow-xl z-[100]' : 'fixed w-full h-20 z-[100]'}>
         <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
             <Link href='/'>
-            <Image src="/../public/assets/navlogo1.webp" alt="/"  width='225' height='100' />
+            <img src="https://github.com/RonikParashar/My_Portfolio/assets/90423810/fbdd0619-e57c-411e-a314-7bf644056e69" alt="/"  width='225' height='50' />
             </Link>
             
 
